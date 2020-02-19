@@ -1,0 +1,23 @@
+p{
+    color:blue;
+}
+#important {
+    color:red;
+    font-size: bold;
+    text-align: center;
+    text-decoration: underline;
+}
+.not-as-special {
+    font-weight: bold;
+}
+h1 {
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    border: 10px groove pink;
+    padding: 20px;
+    width: 50%;
+}
+body{
+    background-color: powderblue;
+}

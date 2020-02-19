@@ -1,0 +1,28 @@
+/* TAG SELECTOR */
+/* for colors use the below by using the RGB or the code*/
+/* uses coolors */
+/* use color picker */
+/* color scheme designer3 */
+body{
+background-color: darkslategray; 
+color: white;
+}
+/* Class selectors for general */
+a {
+    color: pink
+}
+/* highlight is for specific */
+.highlight {
+    color: rgb(212, 202, 56);
+}
+/* ID SELECTORS */
+#feature {
+    background-color: white;
+    color: black;
+    font-family: fantasy;
+    border:10px groove orange;
+    padding: 20px;
+    width: 50%;
+    margin: 0px auto;
+    
+}
