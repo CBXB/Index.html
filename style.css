@@ -26,3 +26,35 @@ a {
     margin: 0px auto;
     
 }
+/* lay out */
+nav {
+    font-family: sans-serif;
+    background-color:rgb(214, 214, 214);
+    padding:20px;
+}
+nav ul {
+    margin:0px;
+    padding:0px;
+}
+nav ul li {
+    background-color: rgb(240, 240, 240);
+    border: 1px solid rgb(182, 182, 182);
+    padding:10px;
+    margin:5px;
+    text-align: center;
+    display: inline-block;
+}
+nav ul li a {
+    color:black;
+    font-weight:bold;
+    text-decoration:none;
+}
+/* css tricks.com */
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+    vertical-align: top;
+}
+* {
+    outline: 1px dotted; color: red; 
+}
